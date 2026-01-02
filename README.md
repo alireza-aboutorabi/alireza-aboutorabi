@@ -3,7 +3,7 @@
     <img
       src="https://github.com/alireza-aboutorabi/alireza-aboutorabi/blob/main/assets/glx.gif?raw=true"
       alt="GIF"
-      width="700"
+      width="550"
     />
   </a>
 </p>
