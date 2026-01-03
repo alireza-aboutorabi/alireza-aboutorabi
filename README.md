@@ -8,12 +8,13 @@
       />
     </a>
   </p>
-  <h1>
-    Hi there, I'm Alireza Abotorabi
-    <br/>
-    <span style="font-weight:normal; font-size:18px;">Forever learning, endlessly creating.</span>
-  </h1>
-  <p align="center">Industrial and artistic 3D design • Fullstack developer • Tech Enthusiast</p>
+  <h1>Hi there, I'm Alireza Abotorabi</h1>
+  <p style="margin:0; font-size:1.2em; font-weight:normal;">
+    Forever learning, endlessly creating.
+  </p>
+  <p align="center">
+    Industrial and artistic 3D design • Fullstack developer • Tech Enthusiast
+  </p>
 </div>
 
 ## About Me
