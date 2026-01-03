@@ -1,10 +1,9 @@
 ## Profile
 
-| Property              | Data |
-| --------------------- | ---- |
-| Programming Languages |
+| Property              | Data                                                                                                                                                                        |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Programming Languages | [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3AAwrsha&type=Repositories) |
 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3AAwrsha&type=Repositories)
 [![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories) [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://github.com/search?l=Dart&q=user%3AAwrsha&type=Repositories)
 [![C# Badge](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3AAwrsha&type=Repositories)
 [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/search?q=user%3AAwrsha&type=Repositories)
