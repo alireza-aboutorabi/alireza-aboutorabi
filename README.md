@@ -9,6 +9,9 @@
     </a>
   </p>
   <h1>Hi there, I'm Alireza Abotorabi</h1>
+  <p style="margin:0; font-size:2em; font-weight:bold;">
+      Hi there, I'm Alireza Abotorabi
+  </p>
   <p style="margin:0; font-size:1.2em; font-weight:normal;">
     Forever learning, endlessly creating.
   </p>
@@ -17,7 +20,7 @@
   </p>
 </div>
 
-<strong>About Me</strong>
+## About Me
 
 - Based in **Solar System, Earth**
 - I work at **Webcom Company**
