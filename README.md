@@ -1,4 +1,34 @@
+<h1 align="center">Alireza Abotorabi</h1>
+<p align="center">Front-End Developer • Power Electronics Researcher • Tech Enthusiast</p>
 
+<div id="header" align="center">
+  <p align="center">
+  <a target="_blank">
+    <img
+      src="https://github.com/alireza-aboutorabi/alireza-aboutorabi/blob/main/assets/glx.gif?raw=true"
+      alt="GIF"
+      width="300"
+    />
+  </a>
+</p>
+  <h1>
+    Hi there, I'm Alireza Abotorabi
+
+  </h1>
+  <h3>Industrial and artistic 3D design</h3>
+</div>
+
+## 👨‍💻 About Me
+
+- Master's student in **Power Electronics** @ Tafresh University
+- Front-End Developer at **Webcom Company**
+- Based in **Qazvin, Iran**
+- Passionate about **Photography**
+- Learning **Python**, **Machine Learning**, and **IoT**
+- Building apps with **React**, **Next.js**, **Tailwind CSS**, and modern tooling
+- Interested in **AI**, automation, and system integration
+
+---
 
 ## Profile
 
@@ -23,13 +53,3 @@
 | Containerization & Orchestration   | [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/alireza-aboutorabi) [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/alireza-aboutorabi) [![Podman Badge](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white)](https://github.com/alireza-aboutorabi) [![Helm Badge](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://github.com/alireza-aboutorabi) [![OpenShift Badge](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)](https://github.com/alireza-aboutorabi) [![Istio Badge](https://img.shields.io/badge/-Istio-466BB0?style=flat&logo=istio&logoColor=white)](https://github.com/alireza-aboutorabi)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ---
-
-<p align="center">
-  <a target="_blank">
-    <img
-      src="https://github.com/alireza-aboutorabi/alireza-aboutorabi/blob/main/assets/glx.gif?raw=true"
-      alt="GIF"
-      width="550"
-    />
-  </a>
-</p>
