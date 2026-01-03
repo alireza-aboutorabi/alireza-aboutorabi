@@ -4,16 +4,16 @@
       <img
         src="https://github.com/alireza-aboutorabi/alireza-aboutorabi/blob/main/assets/glx.gif?raw=true"
         alt="GIF"
-        width="180"
+        width="210"
       />
     </a>
-  <p style="margin:0; font-size:1.2em; font-weight:normal;">
-    Forever learning, endlessly creating.
-  </p>
   </p>
   <h1>Hi there, I'm Alireza Abotorabi</h1>
   <p align="center">
   Fullstack developer  •  Industrial and artistic 3D design  •  Tech Enthusiast
+  </p>
+  <p style="margin:0; font-size:1.2em; font-weight:normal;">
+    Forever learning, endlessly creating.
   </p>
 </div>
 
