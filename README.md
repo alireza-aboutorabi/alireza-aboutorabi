@@ -4,7 +4,7 @@
     <img
       src="https://github.com/alireza-aboutorabi/alireza-aboutorabi/blob/main/assets/glx.gif?raw=true"
       alt="GIF"
-      width="300"
+      width="180"
     />
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 - Master's student in **Power Electronics** @ Tafresh University
 - Front-End Developer at **Webcom Company**
-- Based in **Qazvin, Iran**
+- Based in **Solar System, Earth**
 - Passionate about **Photography**
 - Learning **Python**, **Machine Learning**, and **IoT**
 - Building apps with **React**, **Next.js**, **Tailwind CSS**, and modern tooling
