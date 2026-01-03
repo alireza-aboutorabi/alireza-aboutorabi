@@ -1,6 +1,3 @@
-<h1 align="center">Alireza Abotorabi</h1>
-<p align="center">Front-End Developer • Power Electronics Researcher • Tech Enthusiast</p>
-
 <div id="header" align="center">
   <p align="center">
   <a target="_blank">
@@ -13,12 +10,12 @@
 </p>
   <h1>
     Hi there, I'm Alireza Abotorabi
-
   </h1>
-  <h3>Industrial and artistic 3D design</h3>
+  <p align="center">Industrial and artistic 3D design • Fullstack developer • Tech Enthusiast</p>
+  <h3></h3>
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 - Master's student in **Power Electronics** @ Tafresh University
 - Front-End Developer at **Webcom Company**
