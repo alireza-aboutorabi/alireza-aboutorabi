@@ -17,7 +17,7 @@
   </p>
 </div>
 
-**About Me**
+<strong>About Me</strong>
 
 - Based in **Solar System, Earth**
 - I work at **Webcom Company**
