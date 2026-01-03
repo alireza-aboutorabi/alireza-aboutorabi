@@ -7,11 +7,11 @@
         width="180"
       />
     </a>
-  </p>
-  <h1>Hi there, I'm Alireza Abotorabi</h1>
   <p style="margin:0; font-size:1.2em; font-weight:normal;">
     Forever learning, endlessly creating.
   </p>
+  </p>
+  <h1>Hi there, I'm Alireza Abotorabi</h1>
   <p align="center">
   Fullstack developer  •  Industrial and artistic 3D design  •  Tech Enthusiast
   </p>
