@@ -8,8 +8,11 @@
       />
     </a>
   </p>
-  <h1>Hi there, I'm Alireza Abotorabi</h1>
-  <h3>Forever learning, endlessly creating.</h3>
+  <h1>
+    Hi there, I'm Alireza Abotorabi
+    <br/>
+    <span style="font-weight:normal; font-size:18px;">Forever learning, endlessly creating.</span>
+  </h1>
   <p align="center">Industrial and artistic 3D design • Fullstack developer • Tech Enthusiast</p>
 </div>
 
@@ -44,4 +47,6 @@
 
 ## Connect with me
 
-<div class="icon-mail"></div>(mailto:your-email@example.com) your-email@example.com
+- [Mail](alirezaabotorabiwork@gmail.com)
+- [Telegram](https://t.me/a_ab0t0rabi)
+- [Linkedin](-)
