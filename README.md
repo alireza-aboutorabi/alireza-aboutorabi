@@ -17,12 +17,12 @@
   </p>
 </div>
 
-## About Me
+<!-- ## About Me
 
 - Based in **Solar System, Earth**
 - I work at **Webcom Company**
 - Bachelor's degree in **Computer Engineering** @ iau University
-- I seek an endless share from the cluster of **Knowledge**
+- I seek an endless share from the cluster of **Knowledge** -->
 
 ## Skills
 
