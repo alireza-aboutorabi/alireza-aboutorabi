@@ -1,5 +1,0 @@
-{
-  "name": "R3F Cosmic Galaxy Generator",
-  "description": "A high-performance 3D galaxy simulator built with React Three Fiber, featuring procedural generation, post-processing effects, and real-time parameter controls.",
-  "requestFramePermissions": []
-}
